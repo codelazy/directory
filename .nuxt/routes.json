@@ -1,0 +1,212 @@
+[
+  {
+    "name": "index___fr",
+    "path": "/fr",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6a56a482"
+  },
+  {
+    "name": "login___en",
+    "path": "/login",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_d7075e54"
+  },
+  {
+    "name": "mountains___en",
+    "path": "/mountains",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/mountains.vue",
+    "chunkName": "pages/mountains",
+    "_name": "_9a80e01a"
+  },
+  {
+    "name": "register___en",
+    "path": "/register",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_2d141046"
+  },
+  {
+    "name": "result___en",
+    "path": "/result",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/result.vue",
+    "chunkName": "pages/result",
+    "_name": "_43c30380"
+  },
+  {
+    "name": "result-backup___en",
+    "path": "/result-backup",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/result-backup.vue",
+    "chunkName": "pages/result-backup",
+    "_name": "_0d3f8542"
+  },
+  {
+    "name": "test___en",
+    "path": "/test",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_4718d796"
+  },
+  {
+    "name": "test-table___en",
+    "path": "/test-table",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/test-table.vue",
+    "chunkName": "pages/test-table",
+    "_name": "_6cf3b1b6"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6a56a482"
+  },
+  {
+    "name": "login___fr",
+    "path": "/fr/login",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_d7075e54"
+  },
+  {
+    "name": "mountains___fr",
+    "path": "/fr/mountains",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/mountains.vue",
+    "chunkName": "pages/mountains",
+    "_name": "_9a80e01a"
+  },
+  {
+    "name": "register___fr",
+    "path": "/fr/register",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_2d141046"
+  },
+  {
+    "name": "result___fr",
+    "path": "/fr/result",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/result.vue",
+    "chunkName": "pages/result",
+    "_name": "_43c30380"
+  },
+  {
+    "name": "result-backup___fr",
+    "path": "/fr/result-backup",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/result-backup.vue",
+    "chunkName": "pages/result-backup",
+    "_name": "_0d3f8542"
+  },
+  {
+    "name": "test___fr",
+    "path": "/fr/test",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_4718d796"
+  },
+  {
+    "name": "test-table___fr",
+    "path": "/fr/test-table",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/test-table.vue",
+    "chunkName": "pages/test-table",
+    "_name": "_6cf3b1b6"
+  },
+  {
+    "name": "login___zh",
+    "path": "/zh/login",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_d7075e54"
+  },
+  {
+    "name": "mountains___zh",
+    "path": "/zh/mountains",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/mountains.vue",
+    "chunkName": "pages/mountains",
+    "_name": "_9a80e01a"
+  },
+  {
+    "name": "register___zh",
+    "path": "/zh/register",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_2d141046"
+  },
+  {
+    "name": "result___zh",
+    "path": "/zh/result",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/result.vue",
+    "chunkName": "pages/result",
+    "_name": "_43c30380"
+  },
+  {
+    "name": "result-backup___zh",
+    "path": "/zh/result-backup",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/result-backup.vue",
+    "chunkName": "pages/result-backup",
+    "_name": "_0d3f8542"
+  },
+  {
+    "name": "test___zh",
+    "path": "/zh/test",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_4718d796"
+  },
+  {
+    "name": "test-table___zh",
+    "path": "/zh/test-table",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/test-table.vue",
+    "chunkName": "pages/test-table",
+    "_name": "_6cf3b1b6"
+  },
+  {
+    "name": "slug___fr",
+    "path": "/fr/:slug",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_6dc3e712"
+  },
+  {
+    "name": "slug___zh",
+    "path": "/zh/:slug",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_6dc3e712"
+  },
+  {
+    "name": "continent-mountain___fr",
+    "path": "/fr/:continent/:mountain?",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/_continent/_mountain.vue",
+    "chunkName": "pages/_continent/_mountain",
+    "_name": "_022f1435"
+  },
+  {
+    "name": "continent-mountain___zh",
+    "path": "/zh/:continent/:mountain?",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/_continent/_mountain.vue",
+    "chunkName": "pages/_continent/_mountain",
+    "_name": "_022f1435"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6a56a482"
+  },
+  {
+    "name": "slug___en",
+    "path": "/:slug",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_6dc3e712"
+  },
+  {
+    "name": "continent-mountain___en",
+    "path": "/:continent/:mountain?",
+    "component": "/Users/truffy/github/bitss-repo/directory/pages/_continent/_mountain.vue",
+    "chunkName": "pages/_continent/_mountain",
+    "_name": "_022f1435"
+  }
+]
