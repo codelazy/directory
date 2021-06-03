@@ -1,31 +1,34 @@
 <template>
   <v-main class="pt-0">
-    <h1 class="text-center mt-8 mb-4">Sale.today</h1>
-    
-    <v-row no-gutters class="px-8 py-4">
-      <v-toolbar
-        flat
-        color="transparent"
-      >
-        <v-text-field
-          v-model="search"
-          append-icon="mdi-magnify"
-          label="Search News"
-          single-line
-          outlined
-        ></v-text-field>
-      </v-toolbar>
-      <v-card-text class="py-0">
-        <v-chip
-          v-for="(keyword, i) in keywords"
-          :key="i"
-          class="mr-2"
-        >
-          {{ keyword }}
-        </v-chip>
-      </v-card-text>
+    <v-container fluid class="sticky-pos">
+      <h1 class="text-center mt-8 mb-4">Sale.today</h1>
       
-    </v-row>
+      <v-row no-gutters class="px-8 py-4">
+        <v-toolbar
+          flat
+          fixed
+          color="transparent"
+        >
+          <v-text-field
+            v-model="search"
+            append-icon="mdi-magnify"
+            label="Search News"
+            single-line
+            outlined
+          ></v-text-field>
+        </v-toolbar>
+        <v-card-text class="py-0">
+          <v-chip
+            v-for="(keyword, i) in keywords"
+            :key="i"
+            class="mr-2"
+          >
+            {{ keyword }}
+          </v-chip>
+        </v-card-text>
+        
+      </v-row>
+    </v-container>  
     <v-row class="pa-8">
       
       <template v-for="(item, index)  in searching">
@@ -153,3 +156,13 @@ export default {
   },
 }
 </script>
+<style>
+
+.sticky-pos {
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  background-color: #fff;
+  padding: 4vh 4vh 0;
+}
+</style>
